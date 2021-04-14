@@ -2,9 +2,9 @@
 
 :elephant: FullStack Developer na [Duo Studio Interativo](https://duo.studio/)
 
-:globe_with_meridians: [Portfólio](https://lucasnemeses.github.io/)<br>
-:briefcase: [LinkedIn](https://www.linkedin.com/in/lucas-meneses/)<br>
-:camera_flash: [Instagram](https://www.instagram.com/lucasnemeses/)<br>
+:globe_with_meridians: <a href="https://lucasnemeses.github.io/" target="_blank">Portfólio</a><br>
+:briefcase: <a href="https://www.linkedin.com/in/lucas-meneses/" target="_blank">LinkedIn</a><br>
+:camera_flash: <a href="https://www.instagram.com/lucasnemeses/" target="_blank">Instagram</a><br>
 
 #### Tecnologias
 <p>
