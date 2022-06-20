@@ -1,29 +1,27 @@
-### Oi, sou o Lucas Meneses! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQE64ox9xDXSNQ/profile-displaybackgroundimage-shrink_350_1400/0/1646484442915?e=1661385600&v=beta&t=0UDZJFcvQAxoO4IDbu0qH0F762FW8Sc0EuaZJu7O9h8">
 
-[![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)](#)
+### Oi, sou o Lucas Meneses! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
 
+Fullstack Developer na [Keyworks Software](https://www.keyworks.com.br/)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
-          
+#### Contato
 
+<a href="https://www.linkedin.com/in/lucas-meneses/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+</a>
 
-
-:elephant: FullStack Developer na [Keyworks Software](https://www.keyworks.com.br/)
-
-:briefcase: <a href="https://www.linkedin.com/in/lucas-meneses/" target="_blank">LinkedIn</a><br>
-:camera_flash: <a href="https://www.instagram.com/lucasnemeses/" target="_blank">Instagram</a><br>
+<a href="https://www.instagram.com/lucasnemeses/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" />
+</a>
 
 #### Tecnologias
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-</p>
-<p>
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://laravel.com/img/logomark.min.svg" width="40" height="40"/>
+  <img src="https://www.php.net//images/logos/new-php-logo.svg" width="40" height="40"/>    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+</div>
