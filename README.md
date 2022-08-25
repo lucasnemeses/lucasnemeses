@@ -1,4 +1,4 @@
-<img src="logo.png">
+<img src="logo.jpg">
 
 ### Oi, sou o Lucas Meneses! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
 
@@ -15,7 +15,7 @@ Fullstack Developer na [Keyworks Software](https://www.keyworks.com.br/)
 
 <br>
 
-<div>         
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="40" height="40"/>
