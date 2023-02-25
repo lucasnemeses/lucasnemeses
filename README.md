@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQEWUysMqXtCyw/profile-displaybackgroundimage-shrink_350_1400/0/1672837018995?e=1682553600&v=beta&t=WoSz8fI4otT8w9uG7tpHbTVsOFXhWVKvm7tcfUl_7ik">
 
 ### Oi, sou o Lucas Meneses! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
-Front-end Developer
+Software Developer
 
 <div>
   <a href="https://www.linkedin.com/in/lucas-meneses/" target="_blank">
